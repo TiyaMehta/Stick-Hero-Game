@@ -1,1 +1,1 @@
-This is a project developed using javascript. Concepts of computer graphcis have been utilized here.
+This is a project developed using javascript. Concepts of computer graphics have been utilized here.
